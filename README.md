@@ -1,7 +1,7 @@
 # Day-16
 30 Days of Codding 
  
- KEYWORD IN PYTHON
+1.0   KEYWORD IN PYTHON
  
 
 Keywords are reserved words, having their special meaning in python. You can not use any of the python keyword as identifier. Keywords in python used to perform some particular task.
@@ -25,3 +25,16 @@ As you can see from the keyword.py file, all the word in red color are keywords 
     else
     for
     in
+
+
+2.0 DATA Types 
+
+Basically data type represents the type of value and determines how the value can be used in a python program.
+
+There are following five standard data types available in Python programming:
+
+    Numbers type
+    Strings type
+    List type
+    Tuple type
+    Dictionary type
